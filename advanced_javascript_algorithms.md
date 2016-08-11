@@ -1,3 +1,4 @@
+# Validate US Telephone Numbers
 ```
 function telephoneCheck(str) {
 
@@ -10,3 +11,5 @@ function telephoneCheck(str) {
 	        }
 }
 ```
+
+
