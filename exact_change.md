@@ -1,5 +1,5 @@
 # Exact Change
-### This is a cash register function that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument. The answer will return "Insufficient Funds" if the cash in the drawer is less than the change that is due. If the cash in the drawyer is equal to the change that is due the answer will return "Closed". Else the answer will return the change in coin and bills which are sorted in highest to lowest order.
+#### This is a cash register function that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument. The answer will return "Insufficient Funds" if the cash in the drawer is less than the change that is due. If the cash in the drawyer is equal to the change that is due the answer will return "Closed". Else the answer will return the change in coin and bills which are sorted in highest to lowest order.
 ```
 function checkCashRegister(price, cash, cid) {
     

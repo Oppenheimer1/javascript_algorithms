@@ -1,4 +1,5 @@
 # Validate US Telephone Numbers
+#### This function returns true if the passed string is a valid US phone number.
 ```
 function telephoneCheck(str) {
 
