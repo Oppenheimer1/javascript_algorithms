@@ -2,7 +2,6 @@
 #### This function returns true if the passed string is a valid US phone number.
 ```
 function telephoneCheck(str) {
-  // Good luck!
 if (str.match(/^((1\s*)?(\(\s*(\d{3})\s*\)|(\d{3}))\s*([-]\s*)?)(\d\d{2})\s*([-]\s*)?(\d{4})$/g)) {
             return true;
         }
