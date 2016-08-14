@@ -1,5 +1,5 @@
 # DNA PAIR CHECKER
-#### This function takes as it's input a DNA strand that is missing it's paired element. The function Takes each character, get its pair, and returns the result as a 2d array.
+#### This function takes as it's input a DNA strand that is missing it's paired element. The function takes each character, get its pair, and returns the result as a 2d array.
 ```
 function pairElement(str){
     var newArr = [];
