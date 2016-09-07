@@ -1,4 +1,4 @@
-# Largest Number from Each Array
+# Largest Number From Each Array
 #### This function takes an array of array's as input and returns an array consisting of the largest number from each provided sub-array.
 ```
 function largestOfFour(arr) {
